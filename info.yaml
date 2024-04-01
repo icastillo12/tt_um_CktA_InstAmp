@@ -50,14 +50,14 @@ pinout:
   uio[7]: ""
 
   # Analog pins - you can add more if you use them, up to 8
-  ua[0]: "none"
-  ua[1]: "vo"
-  ua[2]: "vbn"
-  ua[3]: "AGND"
-  ua[4]: "VirGND_FB"
-  ua[5]: "VirGND_Out"
-  ua[6]: "Vin"
-  ua[7]: "Vip"
+  ua[0]: "vo"
+  ua[1]: "vbn"
+  ua[2]: "AGND"
+  ua[3]: "VirGND_FB"
+  ua[4]: "VirGND_Out"
+  ua[5]: "Vin"
+  ua[6]: "Vip"
+  ua[7]: " "
   
 # Do not change!
 yaml_version: 6
